@@ -2,7 +2,7 @@
 ### Added in 2022
 #### ESXi 16
 - 4F40H-4ML1K-M89U0-0C2N4-1AKL4
-#### VCSA
+#### vCenter Server 8 Standard
 - 0F41K-0MJ4H-M88U1-0C3N0-0A214 
 ----
 ### 2023 Keys
