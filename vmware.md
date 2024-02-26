@@ -7,9 +7,8 @@
 ### ESXi 8
 | Key                                           | Tested  |
 |-----------------------------------------------|---------|
-| HG00K-03H8K-48929-8K1NP-3LUJ41       | ✅       |
-| VKZQV-CFZYX-D1VWH-ZZVZZ-ZPXXV                 |     ❓    |
-| N5ZP8-G4WLZ-K1RH4-HY6QX-RGQNX                 |     ❓    |
+| 4V492-44210-48830-931GK-2PRJ4      | ✅       |
+| HG00K-03H8K-48929-8K1NP-3LUJ4       | ✅       |
 
 ### ESXi 7 Enterprise Plus
 | Key                                           | Status  |
