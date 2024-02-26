@@ -1,23 +1,35 @@
-# VMware ESXi 6/7/8, VCSA 8, vCenter, Workstation 16/17 license keys 2024
-- [x] checkbox means it's tested
-### 2023 Keys
-#### vCenter Server 8 Standard
-- 4F282-0MLD2-M8869-T89G0-CF240
-- 0F41K-0MJ4H-M88U1-0C3N0-0A214 
-#### ESXi 8
-- [x] HG00K-03H8K-48929-8K1NP-3LUJ41
-- VKZQV-CFZYX-D1VWH-ZZVZZ-ZPXXV
-- N5ZP8-G4WLZ-K1RH4-HY6QX-RGQNX
-- NNEWR-62WQE-D1VZH-XVYLX-VC7EZ
-#### ESXi 7 Enterprise Plus
-- JJ2WR-25L9P-H71A8-6J20P-C0K3F
-- HN2X0-0DH5M-M78Q1-780HH-CN214
-- JH09A-2YL84-M7EC8-FL0K2-3N2J2
-#### ESXi 6 Enterprise Plus
-- [x] 1G4WK-4YH54-080P9-C9AZP-9GHQF
-#### Workstation 17
-- [x] ZV3JH-4LXE1-M88MZ-HQXXX-XG0FD
-- AG5RU-6AXDL-H81FZ-KQYN9-M32E0
-- ---
-#### Workstation 16
-- 4F40H-4ML1K-M89U0-0C2N4-1AKL4
+### vCenter Server 8 Standard
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| 4F282-0MLD2-M8869-T89G0-CF240       | ✅       |
+| 0F41K-0MJ4H-M88U1-0C3N0-0A214       | ✅       |
+
+### ESXi 8
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| HG00K-03H8K-48929-8K1NP-3LUJ41       | ✅       |
+| VKZQV-CFZYX-D1VWH-ZZVZZ-ZPXXV                 |     ❓    |
+| N5ZP8-G4WLZ-K1RH4-HY6QX-RGQNX                 |     ❓    |
+
+### ESXi 7 Enterprise Plus
+| Key                                           | Status  |
+|-----------------------------------------------|---------|
+| JJ2WR-25L9P-H71A8-6J20P-C0K3F                  |     ❓    |
+| HN2X0-0DH5M-M78Q1-780HH-CN214                 |     ❓    |
+| JH09A-2YL84-M7EC8-FL0K2-3N2J2                 |     ❓    |
+
+### ESXi 6 Enterprise Plus
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| 1G4WK-4YH54-080P9-C9AZP-9GHQF        | ✅       |
+
+### Workstation 17
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| ZV3JH-4LXE1-M88MZ-HQXXX-XG0FD       | ✅ |
+| AG5RU-6AXDL-H81FZ-KQYN9-M32E0                 |  ❓ |
+
+### Workstation 16
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| 4F40H-4ML1K-M89U0-0C2N4-1AKL4                 |   ❓      |
