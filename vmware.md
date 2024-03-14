@@ -1,3 +1,4 @@
+Free VMware license keys, they should work. It works for all cores on your host system(ESXi).
 ### vCenter Server 8 Standard
 | Key                                           | Tested  |
 |-----------------------------------------------|---------|
@@ -26,7 +27,7 @@
 | Key                                           | Tested  |
 |-----------------------------------------------|---------|
 | ZV3JH-4LXE1-M88MZ-HQXXX-XG0FD       | ✅ |
-| AG5RU-6AXDL-H81FZ-KQYN9-M32E0                 |  ❓ |
+| AG5RU-6AXDL-H81FZ-KQYN9-M32E0                 |  ✅ |
 
 ### Workstation 16
 | Key                                           | Tested  |
