@@ -33,3 +33,9 @@ Free VMware license keys, they should work. It works for all cores on your host 
 | Key                                           | Tested  |
 |-----------------------------------------------|---------|
 | 4F40H-4ML1K-M89U0-0C2N4-1AKL4                 |   ❓      |
+
+### Fusion 13 Pro
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| 4A4RR-813DK-M81A9-4U35H-06KND               |   ✅      |
+
