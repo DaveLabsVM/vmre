@@ -5,6 +5,12 @@ Free VMware license keys, they should work. It works for all cores on your host 
 | 4F282-0MLD2-M8869-T89G0-CF240       | ✅       |
 | 0F41K-0MJ4H-M88U1-0C3N0-0A214       | ✅       |
 
+### vCenter Server 7
+| Key                                           | Tested  |
+|-----------------------------------------------|---------|
+| 4F282-0MLD2-M8869-T89G0-CF240       | ✅       |
+| 0F41K-0MJ4H-M88U1-0C3N0-0A214       | ✅       |
+
 ### ESXi 8
 | Key                                           | Tested  |
 |-----------------------------------------------|---------|
@@ -14,9 +20,9 @@ Free VMware license keys, they should work. It works for all cores on your host 
 ### ESXi 7 Enterprise Plus
 | Key                                           | Status  |
 |-----------------------------------------------|---------|
-| JJ2WR-25L9P-H71A8-6J20P-C0K3F                  |     ❓    |
-| HN2X0-0DH5M-M78Q1-780HH-CN214                 |     ❓    |
-| JH09A-2YL84-M7EC8-FL0K2-3N2J2                 |     ❓    |
+| JJ2WR-25L9P-H71A8-6J20P-C0K3F                  |      ✅     |
+| HN2X0-0DH5M-M78Q1-780HH-CN214                 |      ✅     |
+| JH09A-2YL84-M7EC8-FL0K2-3N2J2                 |     ✅    |
 
 ### ESXi 6 Enterprise Plus
 | Key                                           | Tested  |
